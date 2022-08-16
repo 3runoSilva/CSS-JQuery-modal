@@ -1,0 +1,7 @@
+Personal notes:
+
+Remenber good practice to teste JQuery CDN
+
+$(document).ready(function () {
+    alert("adf");
+});
