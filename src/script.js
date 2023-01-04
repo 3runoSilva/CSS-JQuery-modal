@@ -9,4 +9,7 @@ $(document).ready(function () {
     $(".modal_close").click(function () {
         $(".modal_box").removeClass("active");
     });
+    $(".btn_cancel").click(function () {
+        $(".modal_box").removeClass("active");
+    });
 });
